@@ -1,6 +1,7 @@
 This Repository stores my visual studio theme(s).
 
 Everyone can use and modify this theme as wanted. For Editing the themes a visual studio extension is required.
+Use at your own risk!
 All themes are created with:
 
 Visual Studio Theme Desinger
