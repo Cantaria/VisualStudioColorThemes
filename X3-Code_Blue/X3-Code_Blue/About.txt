@@ -1,0 +1,5 @@
+﻿X3-Code_Blue Visual Studio Theme
+============================================================
+
+This is a "Visual Studio 2017 Blue Theme"-Like Theme. It uses in some cases the same colors as the VS2017 blue theme which a little personal touch.
+Some things are darker, some things a brighter
